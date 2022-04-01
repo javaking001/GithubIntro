@@ -2,6 +2,7 @@ Shopping List:
 
 Apples
 Oranges
-My Bananas
+Bananas
 Cherries 
 Carrots
+Ceral
