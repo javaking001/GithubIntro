@@ -8,3 +8,4 @@ Carrots
 Ceral
 Cucumbers
 Raddishes
+Lettuce
